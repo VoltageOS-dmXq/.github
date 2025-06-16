@@ -35,7 +35,7 @@ Our goal is simple: deliver a fast, privacy-respecting, developer-friendly Andro
 
 ---
 
-🙌 Credits & Acknowledgements
+## 🙌 Credits & Acknowledgements
 
     Voltage OS Core Team – Vision, upstream maintenance, relentless code reviews.
 
@@ -45,4 +45,4 @@ Our goal is simple: deliver a fast, privacy-respecting, developer-friendly Andro
 
     @chaptsand – Rock-solid dmXq device & kernel trees.
 
-    Huge thanks to everyone who opens an issue, submits a PR, or lends a hand in chat—you power Voltage OS.
+Huge thanks to everyone who is and will contribute to this!

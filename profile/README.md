@@ -27,7 +27,6 @@ Our goal is simple: deliver a fast, privacy-respecting, developer-friendly Andro
    🚀 Device&nbsp;Tree
   </a>
    </a>
-  &nbsp|&nbsp
 </span>
   
 ---

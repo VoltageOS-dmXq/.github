@@ -26,7 +26,7 @@ Our goal is simple: deliver a fast, privacy-respecting, developer-friendly Andro
   
 ---
 
-## ✨ Why Voltage OS?
+## ✨ Why VoltageOS?
 
 - **Performance first** – Safe compiler flags, kernel optimisations, zero bloat.  
 - **Privacy by default** – Hardened SELinux, tracker-free defaults, microG-friendly builds.  
@@ -37,7 +37,7 @@ Our goal is simple: deliver a fast, privacy-respecting, developer-friendly Andro
 
 ## 🙌 Credits & Acknowledgements
 
-    Voltage OS Core Team – Vision, upstream maintenance, relentless code reviews.
+    VoltageOS Core Team – Vision, upstream maintenance, relentless code reviews.
 
     dmXq-development – Kernel bring-up, continuous hardware testing, CI infrastructure.
 

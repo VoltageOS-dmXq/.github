@@ -46,6 +46,6 @@ Our goal is simple: deliver a fast, privacy-respecting, developer-friendly Andro
 - <a href="https://github.com/dmXq-development">**dmXq-development**</a> – Kernel bring-up, continuous hardware testing, CI infrastructure. 
 - <a href="https://github.com/guckesh">**Guckesh**</a> – First working Voltage OS build for dmXq and ongoing contributions.
 - <a href="https://github.com/Machad3x">**Machad3x**</a> – For various commits, bug fixes and maintaining the vendor and hardware tree
-- <a href="https://github.com/chaptsand">**chaptsand**</a> – Rock-solid dmXq device & kernel trees.
+- <a href="https://github.com/chaptsand">**ChaptSand**</a> – Rock-solid dmXq device & kernel trees.
 
 Huge thanks to everyone who is and will contribute to this!

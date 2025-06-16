@@ -13,9 +13,15 @@ Our goal is simple: deliver a fast, privacy-respecting, developer-friendly Andro
     💬 Voltage&nbsp;OS&nbsp;Support
   </a>
   &nbsp|&nbsp
-  <a href="https://github.com/dmXq-development)" target="_blank" rel="noopener noreferrer">
+   <a href="https://t.me/s23_aosp_updates" target="_blank" rel="noopener noreferrer">
+   💬 Galaxy&nbsp;S23&nbsp;AOSP&nbsp;Support
+  </a>
+  &nbsp|&nbsp
+  <a href="https://github.com/dmXq-development" target="_blank" rel="noopener noreferrer">
    🚀 Device&nbsp;Tree
   </a>
+   </a>
+  &nbsp|&nbsp
 </span>
   
 ---

@@ -1,4 +1,4 @@
-# Voltage OS for **dmXq** (Galaxy S23 Series)
+# Voltage OS for **Galaxy S23 Series** (dmXq)
 
 Welcome to the **Voltage OS** hub for Samsung’s Galaxy S23 family (codename *dmXq*).  
 Our goal is simple: deliver a fast, privacy-respecting, developer-friendly Android ROM that sticks close to vanilla AOSP while adding the thoughtful tweaks power users crave for the Galaxy S23 Series.

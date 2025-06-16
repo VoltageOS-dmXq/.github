@@ -1,16 +1,16 @@
-# VoltageOS for **dmXq** (Galaxy S23 Series)
+# Voltage OS for **dmXq** (Galaxy S23 Series)
 
-Welcome to the **VoltageOS** hub for Samsung’s Galaxy S23 family (codename *dmXq*).  
+Welcome to the **Voltage OS** hub for Samsung’s Galaxy S23 family (codename *dmXq*).  
 Our goal is simple: deliver a fast, privacy-respecting, developer-friendly Android ROM that sticks close to vanilla AOSP while adding the thoughtful tweaks power users crave.
 
 <h4 align="center">
 <span style="display:inline-flex; align-items:center; gap:12px;">
   <a href="https://github.com/VoltageOS" target="_blank" rel="noopener noreferrer">
-   ✨ VoltageOS
+   ✨ Voltage OS
   </a>
  &nbsp|&nbsp
    <a href="https://t.me/VoltageOS" target="_blank" rel="noopener noreferrer">
-    💬 VoltageOS&nbsp;Support
+    💬 Voltage OS Support
   </a>
   &nbsp|&nbsp
    <a href="https://t.me/s23_aosp_updates" target="_blank" rel="noopener noreferrer">
@@ -26,7 +26,7 @@ Our goal is simple: deliver a fast, privacy-respecting, developer-friendly Andro
   
 ---
 
-## ✨ Why VoltageOS?
+## ✨ Why Voltage OS?
 
 - **Performance first** – Safe compiler flags, kernel optimisations, zero bloat.  
 - **Privacy by default** – Hardened SELinux, tracker-free defaults, microG-friendly builds.  
@@ -37,7 +37,7 @@ Our goal is simple: deliver a fast, privacy-respecting, developer-friendly Andro
 
 ## 🙌 Credits & Acknowledgements
 
-    VoltageOS Core Team – Vision, upstream maintenance, relentless code reviews.
+    Voltage OS Core Team – Vision, upstream maintenance, relentless code reviews.
 
     dmXq-development – Kernel bring-up, continuous hardware testing, CI infrastructure.
 

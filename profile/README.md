@@ -42,14 +42,10 @@ Our goal is simple: deliver a fast, privacy-respecting, developer-friendly Andro
 
 ## 🙌 Credits & Acknowledgements
 
-    Voltage OS Core Team – Vision, upstream maintenance, relentless code reviews.
-
-    dmXq-development – Kernel bring-up, continuous hardware testing, CI infrastructure.
-
-    @guckesh – First working Voltage OS build for dmXq and ongoing contributions.
-
-    @Machad3x – For various commits, bug fixes and maintaining the vendor and hardware tree
-
-    @chaptsand – Rock-solid dmXq device & kernel trees.
+- <a href="https://github.com/VoltageOS">**Voltage OS Core Team**</a> – Vision, upstream maintenance, relentless code reviews. 
+- <a href="https://github.com/dmXq-development">**dmXq-development**</a> – Kernel bring-up, continuous hardware testing, CI infrastructure. 
+- <a href="https://github.com/guckesh">**Guckesh**</a>– First working Voltage OS build for dmXq and ongoing contributions.
+- <a href="https://github.com/Machad3x">**Machad3x**</a> – For various commits, bug fixes and maintaining the vendor and hardware tree
+- <a href="https://github.com/chaptsand">**chaptsand**</a> – Rock-solid dmXq device & kernel trees.
 
 Huge thanks to everyone who is and will contribute to this!

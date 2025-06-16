@@ -3,9 +3,20 @@
 Welcome to the **Voltage OS** hub for Samsung’s Galaxy S23 family (codename *dmXq*).  
 Our goal is simple: deliver a fast, privacy-respecting, developer-friendly Android ROM that sticks close to vanilla AOSP while adding the thoughtful tweaks power users crave.
 
-💬 <a href="https://t.me/VoltageOS" target="_blank" rel="noopener noreferrer">
-  VoltageOS&nbsp;Support
-</a>
+#### Links:
+<span style="display:inline-flex; align-items:center; gap:12px;">
+  <a href="https://github.com/VoltageOS" target="_blank" rel="noopener noreferrer">
+   ✨ VoltageOS
+  </a>
+ &nbsp|&nbsp
+   <a href="https://t.me/VoltageOS" target="_blank" rel="noopener noreferrer">
+    💬 Voltage&nbsp;OS&nbsp;Support
+  </a>
+  &nbsp|&nbsp
+  <a href="https://github.com/dmXq-development)" target="_blank" rel="noopener noreferrer">
+   🚀 Device&nbsp;Tree
+  </a>
+</span>
 
 ---
 

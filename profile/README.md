@@ -48,6 +48,8 @@ Our goal is simple: deliver a fast, privacy-respecting, developer-friendly Andro
 
     @guckesh – First working Voltage OS build for dmXq and ongoing contributions.
 
+    @Machad3x – For various commits, bug fixes and maintaining the vendor and hardware tree
+
     @chaptsand – Rock-solid dmXq device & kernel trees.
 
 Huge thanks to everyone who is and will contribute to this!

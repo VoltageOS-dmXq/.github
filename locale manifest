@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <!-- Remote definitions -->
+    <remote name="VoltageOS-dmXq" fetch="https://github.com/VoltageOS-dmXq" />
+   
+    <!-- Device tree for Galaxy S23 (dm1q) -->
+    <project name="android_device_samsung_dm1q" path="device/samsung/dm1q"
+             remote="VoltageOS-dmXq" revision="15-qpr2" />
+    <project name="android_device_samsung_sm8550-common" path="device/samsung/sm8550-common"
+             remote="VoltageOS-dmXq" revision="15-qpr2" />
+
+    <!-- Proprietary vendor blobs for S23 and common (pre-extracted proprietary files) -->
+    <project name="proprietary_vendor_samsung_dm1q" path="vendor/samsung/dm1q"
+             remote="VoltageOS-dmXq" revision="15-qpr2" clone-depth="1" />
+    <project name="proprietary_vendor_samsung_sm8550-common" path="vendor/samsung/sm8550-common"
+             remote="VoltageOS-dmXq" revision="15-qpr2" clone-depth="1" />
+         
+    <!-- Kernel -->
+    <project name="android_kernel_samsung_sm8550" path="kernel/samsung/sm8550"
+             remote="VoltageOS-dmXq" revision="android15-stable" clone-depth="1" />
+    <project name="android_kernel_samsung_sm8550-devicetrees" path="kernel/samsung/sm8550-devicetrees"
+             remote="VoltageOS-dmXq" revision="android15-stable" clone-depth="1" />      
+    <project name="android_kernel_samsung_sm8550-modules" path="kernel/samsung/sm8550-modules"
+             remote="VoltageOS-dmXq" revision="android15-stable" clone-depth="1" />  
+
+    <!-- Samsung Hardware -->
+    <project name="android_hardware_samsung" path="hardware/samsung"
+             remote="VoltageOS-dmXq" revision="15-qpr2" />     
+
+</manifest>
